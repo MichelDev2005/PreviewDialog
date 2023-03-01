@@ -1,0 +1,9 @@
+{
+	"user": "MichelDev2005",
+	"repo": "PreviewDialog",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+        "BigETI/pawn-memory"
+	]
+}
